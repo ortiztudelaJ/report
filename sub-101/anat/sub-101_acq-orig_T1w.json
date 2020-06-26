@@ -1,0 +1,27 @@
+{
+    "BaseResolution": 256,
+    "BodyPartExamined": "BRAIN",
+    "EchoTime": 0.00369,
+    "EchoSpacing": 8.800000000000001,
+    "FlipAngle": 7,
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "ND",
+        "MOSAIC"
+    ],
+    "MagneticFieldStrength": 3,
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "Trio",
+    "Modality": "MR",
+    "PartialFourier": 0,
+    "PatientPosition": "HFS",
+    "PercentPhaseFOV": 100,
+    "PhaseResolution": 1,
+    "PixelBandwidth": 200,
+    "ProtocolName": "T1_mprage_sag_MD_1mm_GRAPPA2_nopartF",
+    "RepetitionTime": 2.5,
+    "SliceThickness": 1,
+    "SoftwareVersions": "syngo_MR_B17"
+}
